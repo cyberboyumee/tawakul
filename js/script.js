@@ -1,0 +1,1 @@
+console.log("Welcome to Umar's Store! More features coming soon.");
